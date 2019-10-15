@@ -1,0 +1,67 @@
+﻿ID,PUNTO_DE_CONEXION,DOMICILIO,UBICACION,LONGITUD,LATITUD,TIPO,ZONA,LOCALIDAD,SEDE,FECHA_INSTAL,POBLACION
+1,Primaria 5 de mayo,Boulevard Renacimiento del Potrero,Nuevo Amanecer,-101.6070693,21.1179868,colonia,urbana,Leon,Escuela,abr-18,486
+2,Primaria Joel Cisneros Lara,Boulevard Torre Leon SN,Paseo de las Torres,-101.7583752,21.1672738,colonia,urbana,Leon,Escuela,abr-18,247
+3,Primaria Tierra y Libertad,Ejido Los Naranjos Oficinas del Partido Accion Nacional,Los Naranjos,-101.6188820,21.1545128,colonia,urbana,Leon,Escuela,abr-18,201
+4,Primaria Dr Pablo del Rio,Boulevard Campestre Ahuehuete SN,Urbi Villa del Roble,-101.7652038,21.1664617,colonia,urbana,Leon,Escuela,abr-18,689
+5,Primaria Miguel Hidalgo,Valle del Sahuan SN,Rancho Nuevo El Maguey,-101.6203514,21.0853331,colonia,urbana,Leon,Escuela,abr-18,447
+6,Telesecundaria num 581,Antigua Salida A San Felipe No 103,Ibarrilla,-101.6521700,21.1872946,colonia,urbana,Leon,Escuela,abr-18,318
+7,Primaria Emiliano Zapata,Emiliano Zapata km 14,Los Sauces,-101.5412377,21.0242972,comunidad,rural,Leon,Escuela,abr-18,384
+8,Telesecundaria No 123,Estudiante No 1 Carretera Leon Silao,Los Sauces,-101.6776342,21.1708415,comunidad,rural,Leon,Escuela,abr-18,323
+9,Primaria Albino Garcia,Comunidad San Jose del Potrero Club Cinegetico del Bajio,San Jose del Potrero,-101.6005155,21.1342671,comunidad,rural,Leon,Escuela,abr-18,611
+10,Primaria Insurgentes,Canada de Alfaro pasando el rio,Alfaro,-101.6083774,21.1483992,comunidad,rural,Leon,Escuela,abr-18,410
+11,Telesecundaria No 1003,Mesa de Ibarrilla Salida a Ibarrilla SN,Mesa de Ibarrilla,-101.6500964,21.2194781,comunidad,rural,Leon,Escuela,abr-18,46
+12,Primaria Benito Juarez,Camino viejo a Lagos SN y griega carretera Leon  Lagos de Moreno,Lagunillas,-101.7743925,21.1865838,comunidad,rural,Leon,Escuela,may-18,230
+13,Telesecundaria Num 527,Camino a los Tepetates No 4,Los Arcos,-101.6749664,21.0659537,comunidad,rural,Leon,Escuela,may-18,238
+14,Telesecundaria num 528,Camino Calle de los volcanes No 102,San Pedro del Monte Hospital,-101.7117219,21.0335226,comunidad,rural,Leon,Escuela,may-18,292
+15,Primaria Melchor Ocampo,Carretera Leon San Francisco Del Rincon,La Mora,-101.7634213,21.0656266,comunidad,rural,Leon,Escuela,abr-18,136
+16,Plaza de la Ciudadania Griselda Alvarez,Boulevard Vasco de Quiroga 2101,Presidentes de Mexico,-101.6514000,21.1393885,colonia,urbana,Leon,plaza,oct-18,0
+17,Plaza de la Ciudadania Efrain Huerta,Calle Hegel esquina Pascal SN,Soledad de las Joyas,-101.7566187,21.1406190,colonia,urbana,Leon,plaza,oct-18,0
+18,Plaza de la Ciudadania Praxedis Guerrero,Calle Felix Romero 613,Periodistas mexicanos,-101.7521077,21.0934200,colonia,urbana,Leon,plaza,oct-18,0
+19,San Francisco de Duran,Alvaro Obregon,San Agustin de Miraflores,-101.6234388,21.0047765,comunidad,rural,Leon,sin informacion,feb-18,2311
+20,Alfaro,Templo de Alfaro,Alfaro,-101.6121765,21.1479609,comunidad,rural,Leon,Templo de Alfaro,ene-19,2381
+21,Los Alisos,Casa del guardabosques y comedor comunitario de la comunidad,Los Alisos,-101.6485637,21.1343948,comunidad,rural,Leon,Casa del guardabosques y comedor comunitario de la comunidad,dic-18,54
+22,Las Canelas,Iglesia de la comunidad,Las Canelas,-101.4665325,21.2189082,comunidad,rural,Leon,Iglesia de la comunidad,dic-18,147
+23,Cuesta Blanca,Terreno ubicado a un costado de la calle principal,Cuesta Blanca,-101.4911600,21.1058610,comunidad,rural,Leon,Terreno ubicado a un costado de la calle principal,dic-18,137
+24,El Derramadero,A un costado de la Escuela Primaria Francisco Javier Mina,El Derramadero,-101.4168590,21.1670800,comunidad,rural,Leon,A un costado de la Escuela Primaria Francisco Javier Mina,dic-18,141
+25,La Mesa del Obispo,Frente a comedor comunitario,Mesa del Obispo,-101.4351200,21.1476600,comunidad,rural,Leon,Frente a comedor comunitario,dic-18,19
+26,Nuevo Valle de Moreno,Plaza Principal,Nuevo Valle de Moreno,-101.4250300,21.2107683,comunidad,rural,Leon,Plaza Principal sobre la acera noroeste,dic-18,863
+27,San Jose de Otates Sur,Comedor comunitario de la comunidad,San Jose de Otates Sur,-101.5787527,21.2602499,comunidad,rural,Leon,Comedor comunitario de la comunidad,ene-19,73
+28,San Jose de Otates Norte,Escalinata para cceder al atrio de la comunidad,San Jose de Otates Norte,-101.8042393,20.7819321,comunidad,rural,Leon,Escalinata para cceder al atrio de la comunidad,ene-19,47
+29,San Jose de los Romeros,Calle Juarez 60,San Jose de los Romeros,-101.4924811,21.0371698,comunidad,rural,Leon,Terreno ubicado en el centro de la comunidad,dic-18,137
+30,Sauz Seco,Terreno frente al atrio de la iglesia,Sauz Seco,-101.5455623,21.1683518,comunidad,rural,Leon,Terreno frente al atrio de la iglesia,dic-18,101
+31,San Rafael Cerro Verde,Plaza Principal,San Rafael Cerro Verde,-101.4600000,21.1627400,comunidad,rural,Leon,Plaza Principal,ene-19,47
+32,Vaquerias,En la Plaza principal frente a la iglesia,Vaquerias,-101.4017567,21.1553558,comunidad,rural,Leon,En la Plaza principal frente a la iglesia,dic-18,974
+33,Albarradones,Calle Central SN,Parroquia de Nuestra SeÒora del Refugio,-101.5036111,21.0402778,comunidad,rural,Leon,Frente a la iglesia,mar-19,810
+34,Benito de Juarez,Juan de Grijalva 116,Benito de Juarez,-101.5802778,21.0775000,comunidad,rural,Leon,Jardin principal,mar-19,86
+35,Duarte,Calle La luz SN,Parroquia del Senor de la Misericordia,-101.5222028,21.0856500,comunidad,rural,Leon,Iglesia de la comunidad,mar-19,6261
+36,Ejido Pompa,Calle Lazaro Cardenas 202,Ejido Pompa,-101.6875000,21.0752778,comunidad,rural,Leon,En el techo del templo,mar-19,77
+37,El Capricho,Plaza de la comunidad,El Capricho,-101.6900000,21.9977778,comunidad,rural,Leon,Plaza de la comunidad,mar-19,1249
+38,El Nacimiento,Calle Privada Santa Maria 128,El Nacimiento,-101.7722222,21.0583333,comunidad,rural,Leon,Casa particular frente a mini deportiva,mar-19,280
+39,El Ramillete,Calle Flor de melocoton SN,El Ramillete,-101.5914621,21.0430847,comunidad,rural,Leon,Escuela primaria,mar-19,880
+40,El Vergel,Calle Vergel SN,El Vergel,-101.6900000,21.0750000,comunidad,rural,Leon,Casa particular,mar-19,288
+41,Granjas Economicas,Avenida del sur 60,Lomas del suspiro,-101.5536111,21.0347222,comunidad,rural,Leon,En la escuela,mar-19,152
+42,Guadalupe Victoria,Calle Principal 213,Guadalupe Victoria,-101.5797222,21.0194444,comunidad,rural,Leon,En el Templo,mar-19,513
+43,Jacales,Calle Alamo SN,Jacales,-101.5488889,21.0369444,comunidad,rural,Leon,Escuela primaria Lopez Mateos,mar-19,448
+44,La Laborcita,Calle principal 113,Primaria Justo Sierra,-101.5576617,21.1069739,comunidad,rural,Leon,Escuela,mar-19,1567
+45,La Patina,Calle principal al Templo SN,La Patina,-101.7055556,21.1955556,comunidad,rural,Leon,Templo,mar-19,788
+46,La Providencia,Calle primero de enero 6,La Providencia,-101.6600000,21.0741667,comunidad,rural,Leon,En una casa particular,mar-19,797
+47,La Sandia,En el Templo,La Sandia,-101.6970000,20.9223528,comunidad,rural,Leon,En el Templo,mar-19,2136
+48,Ladrillera del Refugio,Plaza del templo,Ladrillera del Refugio,-101.5536111,21.0847222,comunidad,rural,Leon,Plaza del templo,mar-19,1642
+49,Lagunillas,Calle Andador del Caserio 104,Lagunillas,-101.7650000,21.2022222,comunidad,rural,Leon,Casa particular frente al Templo,mar-19,552
+50,Los Arcos,Calle principal 25,Los Arcos,-101.6872222,21.0491667,comunidad,rural,Leon,Calle principal numero 25,mar-19,1174
+51,Los Lopez,Calle principal 255,Los Lopez,-101.5703139,21.0478861,comunidad,rural,Leon,Calle principal frente a la Escuela,mar-19,652
+52,Los Ramirez,Calle principal SN,Los Ramirez,-101.6459333,21.0196667,comunidad,rural,Leon,Entre en templo y el kiosko,mar-19,2473
+53,Los Sauces,Calle Lopez Mateos SN,Los Sauces,-101.5393806,21.0234778,comunidad,rural,Leon,En el Templo,mar-19,1228
+54,Loza de los Padres,Calle principal SN,Loza de los Padres,-101.5472222,21.0716667,comunidad,rural,Leon,Biblioteca,mar-19,2875
+55,Lucio Blanco,Lucio Blanco SN Cuenca Rio lerma,Lucio Blanco,-101.5511111,21.1152778,comunidad,rural,Leon,Casa particular,mar-19,1218
+56,Nuevo Lindero,Calle Ignacio Medina 20,Nuevo Lindero,-101.6369444,21.9588889,comunidad,rural,Leon,En el Templo frente al jardÌn,mar-19,896
+57,Puerta de San German,Calle Feliciano Domiguez,Puerta de San German,-101.7802778,21.0336111,comunidad,rural,Leon,En el Templo,mar-19,827
+58,Puerta del Cerro,Calle Carlos Medina SN,Puerta del Cerro,-101.7861111,21.0500000,comunidad,rural,Leon,Casa particular frente al Templo,mar-19,417
+59,Rancho Nuevo La Luz,En el Templo,Rancho Nuevo La Luz,-101.6450000,21.9630556,comunidad,rural,Leon,En el Templo,mar-19,1025
+60,San Carlos La Roncha,Casa particular a un lado del templo,San Carlos La Roncha,-101.5872667,21.0710083,comunidad,rural,Leon,Casa particular a un lado del templo,mar-19,0
+61,San JoseÇ del Barron El Cachete,Calle principal SN,San Jose del Barron El Cachete,-101.4963889,21.1619444,comunidad,rural,Leon,En casa particular junto a tienda calle principal,mar-19,160
+62,San Juan de Otates,Calle principal SN,San Juan de Otates,-101.5577833,21.1144639,comunidad,rural,Leon,En el Templo,mar-19,2905
+63,San Judas,Calle San Judas SN,Frente al Templo,-101.7047222,21.9991667,comunidad,rural,Leon,En el Templo,mar-19,1698
+64,San Pedro del Monte,Calle de las haciendas,San Pedro del Monte,-101.7147222,21.0313889,comunidad,rural,Leon,En el Templo,mar-19,857
+65,Santa Rosa Plan de Ayala,En el Templo y Comandancia de policia,Santa Rosa Plan de Ayala,-101.7222111,21.0709528,comunidad,rural,Leon,En el Templo y Comandancia de policia,mar-19,5134
+66,El Terrero,Calle Alamo 3,El Terrero,-101.6052778,20.9611111,comunidad,rural,Leon,En el templo,mar-19,208
