@@ -7,9 +7,9 @@ Taller introductorio a manipulación y visualización de datos abiertos.
 
 ![binder](binder.png)
 
-Ve a <https://mybinder.org> y en el campo **GitHub repository name or URL** copia y pega el siguiente link: 
+Ve a <https://mybinder.org> y en el campo **GitHub repository name or URL** copia y pega el siguiente link:
 
-> #### <https://github.com/RodolfoFerro/open-data>
+> #### <https://github.com/LabLeon/open-data>
 
 ¡Da clik en el botón **launch** y listo!
 
