@@ -1,4 +1,4 @@
-# open-data 📊
+# Introducción a los Datos Abiertos 📊
 
 Taller introductorio a manipulación y visualización de datos abiertos.
 
